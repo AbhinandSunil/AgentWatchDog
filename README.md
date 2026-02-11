@@ -60,7 +60,7 @@ agent-watchdog/
 ├── airport_config.yaml         # Application runtime configuration parameters
 ├── heartbeat_logger.py         # Heartbeat generator for stall detection
 │
-├── logs/                       # Runtime logs and structured event history
+|
 ├── requirements.txt            # Python dependencies
 └── README.md
 ```
